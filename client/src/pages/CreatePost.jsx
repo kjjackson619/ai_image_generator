@@ -24,7 +24,7 @@ const CreatePost = () => {
   }
 
   const handleSurpriseMe = () => {
-    
+
   }
 
   return (
@@ -60,7 +60,7 @@ const CreatePost = () => {
         />
       </div>
     </form>
-    </section>
+    </section> 
   )
 }
 
