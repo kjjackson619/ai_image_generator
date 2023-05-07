@@ -19,6 +19,7 @@ app.get('/', async (req, res) => {
     res.send('Hello from DALL-E!');
 });
 
+
 const startServer = async () => {
 
     try {
