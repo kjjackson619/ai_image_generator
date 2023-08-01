@@ -15,7 +15,7 @@ On the create page you will find a form field where the user will enter their na
 <img width="944" alt="Screen Shot 2023-08-01 at 7 34 12 PM" src="https://github.com/kjjackson619/ai_image_generator/assets/92461865/2c870b68-4631-4d9d-b789-a2ff7f5d097c">
 
 
-Remember the more descriptive the better!
+## Remember the more descriptive the better!
 
-## Made and domain owned by Kevin Jackson
+## Made and domain owned by KJ Jackson
   
